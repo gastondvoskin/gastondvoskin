@@ -1,5 +1,3 @@
-### 👋 Hola, mi nombre es Gastón Dvoskin, bienvenido/a! 
-
 ## Acerca de mí
 Mi pasión por la dirección de proyectos y el emprendimiento me llevó a la necesidad de optimizar tiempos y sistematizar procesos para lograr un mayor impacto. Allí apareció la programación en mi vida, como herramienta para potenciar proyectos que dirigí a lo largo de los últimos 10 años. 
 
@@ -12,7 +10,8 @@ Desde que me he volcado a la programación, he adquirido experiencia en desarrol
 Actualmente, estoy buscando nuevas oportunidades para aportar mis conocimientos en una organización en la que pueda seguir aprendiendo y creciendo profesionalmente en equipo. 
 
 
-Contacto: dvoskingaston@gmail.com | github.com/gastondvoskin | (+54) 9 1156559234 
+## Contacto: 
+dvoskingaston@gmail.com | github.com/gastondvoskin | (+54) 9 1156559234 
 
 <!--
 **gastondvoskin/gastondvoskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
