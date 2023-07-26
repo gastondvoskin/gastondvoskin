@@ -1,8 +1,10 @@
 <h1 align="center">Gastón Dvoskin</h1>
-<h3 align="center">Full-stack developer</h3>
-<br />
+<!-- <h3 align="center">Full-stack developer</h3> -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola,+gracias+por+tu+visita+&hearts;++;Soy+un+Full-stack+Developer;Apasionado+por+emprender;Y+generar+proyectos+de+impacto"></a>
+</p>
 
-<h2 align="right">ACERCA DE MÍ</h2>
+<h2 align="right">:man_technologist: ACERCA DE MÍ</h2>
 <section align="justify">
   <p>Mi pasión por la dirección de proyectos y el emprendimiento me llevó a la necesidad de optimizar tiempos y sistematizar procesos para lograr un mayor impacto. Allí apareció la programación en mi vida, como herramienta para potenciar proyectos que dirigí a lo largo de los últimos 10 años.</p>
 
@@ -15,95 +17,43 @@
   <p>Actualmente, estoy buscando nuevas oportunidades para aportar mis conocimientos en una organización en la que pueda seguir aprendiendo y creciendo profesionalmente en equipo.</p>
 </section>
 
-<h2 align="right">TECNOLOGÍAS Y HERRAMIENTAS</h2>
+<h2 align="right">:desktop_computer: TECNOLOGÍAS Y HERRAMIENTAS</h2>
 <section align="center">
-  <div>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  </div>
-  
-  <div>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  </div>
-  <div>
-    Node.js . Sequelize . PostgreSQL . Slack . Trello . Vercel . RailWay . Auth0 . Agile: Scrum . 
-  </div>
-</section>
 
+<!--JavaScript, NodeJS, React, Express, HTML, CSS, Sequelize, PostgreSQL -->
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize%20-%230096D6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<section align="center">
-  <div>
-    <!-- Frontend -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a> 
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a> 
-  </div>
-  
-  <div>
-    <!-- Backend -->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-    </a> 
-    <a href="https://sequelize.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="40" height="40"/>
-    </a> 
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a> 
-    <!-- Add more backend icons as needed -->
-  </div>
-  
-  <div>
-    <!-- Tools -->
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a> 
-    <!-- Add more tool icons as needed -->
-  </div>
-  
-  <div>
-    <!-- Additional Technologies -->
-    <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/railway/railway-icon.svg" alt="railway" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" alt="auth0" width="40" height="40"/>
-    <!-- Add more additional technology icons as needed -->
-  </div>
+<!--Git, GitHub, VSC, Vercel, Railway, Auth0, Bootstrap-->   
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway%20-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0%20-%23EB5424.svg?style=for-the-badge&logo=auth0&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<!--Trello, Slack, Figma-->
+![Trello](https://img.shields.io/badge/Trello%20-%230079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </section>
 
 
 
-<h2 align="right">CONTACTO</h2>
-<section>
-  <p align="left">
-  <a href="https://linkedin.com/in/gaston-dvoskin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaston-dvoskin" height="30" width="40" /></a>
-    - (+54) 9 1156559234 
-    - dvoskingaston@gmail.com 
-  </p>
+<h2 align="right">:mailbox_with_mail: CONTACTO</h2>
+<section align="center">
+<a href="https://linkedin.com/in/gaston-dvoskin" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  gaston--dvoskin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
+</a>
+<a href="mailto:dvoskingaston@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  dvoskingaston@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+<p>📲 <a href="tel:+5491156559234">(+54) 9 1156559234</a></p>
 </section>
