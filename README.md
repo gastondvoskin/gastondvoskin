@@ -6,15 +6,17 @@
 
 <h2 align="right">:man_technologist: ACERCA DE MÍ</h2>
 <section align="justify">
-  <p>Mi pasión por la dirección de proyectos y el emprendimiento me llevó a la necesidad de optimizar tiempos y sistematizar procesos para lograr un mayor impacto. Allí apareció la programación en mi vida, como herramienta para potenciar proyectos que dirigí a lo largo de los últimos 10 años.</p>
+Mi pasión por la dirección de proyectos y el emprendedurismo me llevó a buscar formas de optimizar tiempos y sistematizar procesos para lograr un mayor impacto. Así es cómo la programación apareció en mi vida, como una poderosa herramienta para potenciar proyectos que dirigí a lo largo de los últimos 10 años. 
 
-  <p>Me gradué como Full-stack web developer en Soy Henry, donde actualmente me desempeño como Teaching assistant, guiando a los alumnos en la resolución de ejercicios y promoviendo la cohesión y colaboración grupal.</p>
+Me gradué como Full-stack web developer en Soy Henry, donde actualmente me desempeño como Teaching assistant, guiando a los alumnos en la resolución de ejercicios y promoviendo el trabajo en equipo.
 
-  <p>Cuento con 10 años como Director de proyectos culturales que me aportaron herramientas de liderazgo, planificación, desarrollo integral de marcas, representación institucional y financiamiento estatal y privado. Desde que me he recibido como Licenciado en Artes Musicales y Sonoras en la Universidad Nacional de las Artes, he logrado que cinco proyectos a mi cargo fueran nombrados de Interés Cultural para la Ciudad de Buenos Aires, he obtenido premios del Fondo Nacional de las Artes, INAMU, Mozarteum, así como premios internacionales por mi labor como Director.</p>
+Mi experiencia como Director de proyectos culturales durante una década me ha proporcionado herramientas de liderazgo, planificación, desarrollo de marcas, representación institucional y fundraising. Desde mi graduación como Licenciado en Artes Musicales Sonoras por la Universidad Nacional de las Artes, cinco proyectos a mi cargo han sido nombrados de Interés Cultural para la Ciudad de Buenos Aires y he obtenidos premios por mi labor como Director de proyectos culturales por parte del Fondo Nacional de las Artes, INAMU y Mozarteum. 
 
-  <p>Desde que me he volcado a la programación, he adquirido experiencia en desarrollo de Front End y Back End con JavaScript, React, Redux, NodeJs, Express y Sequelize, entre otras tecnologías. Además, cuento con conocimientos en metodologías ágiles (SCRUM), GIT, estructura de datos, algoritmos y frameworks CSS. Mi nivel de inglés es C2 (Advanced).</p>
+Además, cuento con conocimientos en metodologías ágiles (SCRUM), GIT, estructura de datos, algoritmos y frameworks CSS. Mi nivel de inglés es C2 (Advanced).
 
-  <p>Actualmente, estoy buscando nuevas oportunidades para aportar mis conocimientos en una organización en la que pueda seguir aprendiendo y creciendo profesionalmente en equipo.</p>
+Mi transición hacia la programación me ha permitido adquirir experiencia en el desarrollo de Front End y Back End utilizando tecnologías como JavaScript, React, Redux, NodeJs, Express y Sequelize, aplicando metodologías ágiles. Mi nivel de Inglés es C2 (advanced).
+
+Actualmente, busco nuevas oportunidades para aportar mis conocimientos en una organización en la que pueda seguir aprendiendo y creciendo profesionalmente, trabajando en equipo y enfrentando nuevos desafíos. 
 </section>
 
 <h2 align="right">:desktop_computer: TECNOLOGÍAS Y HERRAMIENTAS</h2>
@@ -44,8 +46,6 @@
 ![Slack](https://img.shields.io/badge/Slack%20-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </section>
-
-
 
 <h2 align="right">:mailbox_with_mail: CONTACTO</h2>
 <section align="center">
