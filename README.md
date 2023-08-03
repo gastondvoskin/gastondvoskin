@@ -61,11 +61,11 @@ dvoskingaston@gmail.com | github.com/gastondvoskin | (+54) 9 1156559234
 
 ## :mailbox_with_mail: CONTACT
 
-<a href="https://linkedin.com/in/gaston-dvoskin" target="_blank">
+<a href="https://linkedin.com/in/gaston-dvoskin">
 <img src="https://img.shields.io/badge/linkedin:  gaston--dvoskin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
 </a>
-<a href="mailto:dvoskingaston@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  dvoskingaston@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:dvoskingaston@gmail.com">
+<img src="https://img.shields.io/badge/gmail: dvoskingaston@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 📲 <a href="tel:+5491156559234">(+54) 9 1156559234</a>
