@@ -15,8 +15,8 @@ Additionally, my experience as a Director of cultural projects for a decade has 
 
 Currently, I am seeking new opportunities to contribute my skills as a front-end developer to an organization where I can continue learning and growing professionally. I am eager to work in a team and take on new challenges in my career path.
 
-Let's stay in touch!
-dvoskingaston@gmail.com | github.com/gastondvoskin | (+54) 9 1156559234
+### Visit my portfolio 
+[gastondvoskin.com](https://www.gastondvoskin.com)
 
 <br /> 
 
@@ -34,6 +34,7 @@ dvoskingaston@gmail.com | github.com/gastondvoskin | (+54) 9 1156559234
 ![Material UI](https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux%20-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 - Back-end: 
 
@@ -45,14 +46,7 @@ dvoskingaston@gmail.com | github.com/gastondvoskin | (+54) 9 1156559234
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- Tools:
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel%20-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway%20-%23000000.svg?style=for-the-badge&logo=railway&logoColor=white)
-![Auth0](https://img.shields.io/badge/Auth0%20-%23EB5424.svg?style=for-the-badge&logo=auth0&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </section>
 
 <br /> 
