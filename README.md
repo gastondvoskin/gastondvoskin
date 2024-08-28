@@ -5,23 +5,23 @@
 
 ## :man_technologist: ABOUT ME
 
-I’m a Front-end Developer with an advanced proficiency in English (C2). I graduated as a Full-stack web developer from Soy Henry, and I currently work as a Front-end Developer at ReadyMind. 
+Hi! I’m a Front-end Developer with 4 years of experience, specialized in React, with an advanced proficiency in English (C2). Currently, I work as a Front-end Developer at ReadyMind, a Microsoft partner IT consultancy. 
 
-I am experienced in both front-end and full-stack Single Page Applications development using Agile methodologies and technologies such as JavaScript, TypeScript, React, Redux, CSS, Tailwind, Bootstrap, NodeJS, Express, and Sequelize. 
+At ReadyMind, I’ve developed solutions that boost productivity and user engagement for clients such as Las Condes Municipality (Chile), Fornieles, Hospital Británico, CGC (Argentina), and Cenit (Colombia), utilizing Scrum methodology and technologies like React and TypeScript.
 
-Specialized in Front-end, I am committed to creating websites that adapt to any device and offer an excellent user experience. Through careful consideration of design principles, I ensure that every element on the screen serves a purpose and contributes to an intuitive navigation flow, providing users with a smooth and pleasant journey.
+My journey into programming began in 2020 while building websites for artistic projects using Wix. The need for customization led me to dive deeper into coding through YouTube tutorials. This passion drove me to complete a full-stack bootcamp at Henry, where I also served as a Teaching Assistant.
 
-Currently, I hold a full-time role as a Front-end Developer at ReadyMind. In this capacity, I analyze client requirements and translate them into application features.
-
-Additionally, my experience as a Director of cultural projects for a decade has provided me with leadership skills, planning abilities, brand development, institutional representation, and fundraising expertise. Since graduating as a Bachelor of Musical Sound Arts from the National University of the Arts, five projects under my direction have been recognized as of Cultural Interest for the City of Buenos Aires, and I have received awards from the National Arts Fund of Argentina, National Music Institute of Argentina, and Mozarteum.
+Before transitioning to tech, I earned a degree in Choral Conducting, directed Bicentennial Choirs, and founded two artistic groups. These experiences sharpened my leadership, teamwork, and attention to detail, skills I now apply to front-end development.
 
 
 ### Visit my portfolio 
 [gastondvoskin.com](https://www.gastondvoskin.com)
 
+### Visit my last project 
+[cuerdosvocales.com](https://www.cuerdosvocales.com)
 <br /> 
 
-## :desktop_computer: TECHNOLOGIES AND TOOLS
+## :desktop_computer: MAIN TECHNOLOGIES
 
 - Languages:
 
@@ -32,16 +32,8 @@ Additionally, my experience as a Director of cultural projects for a decade has 
   
 ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS%20-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=38b2ac)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux%20-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-- Back-end: 
-
-![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize%20-%230096D6.svg?style=for-the-badge&logo=sequelize&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 </section>
@@ -56,6 +48,5 @@ Additionally, my experience as a Director of cultural projects for a decade has 
 <a href="mailto:dvoskingaston@gmail.com">
 <img src="https://img.shields.io/badge/gmail: dvoskingaston@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-📱 <a href="tel:+5491156559234">(+54) 9 1156559234</a>
 
 ![typing-svg](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+your+visit+&hearts;++;)
