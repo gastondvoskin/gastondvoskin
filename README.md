@@ -5,11 +5,11 @@
 
 ## :man_technologist: ABOUT ME
 
-Hi! I’m a Front-end Developer with 4 years of experience, specialized in React, with an advanced proficiency in English (C2). Currently, I work as a Front-end Developer at ReadyMind, a Microsoft partner IT consultancy. 
+Hi! I’m a Front-end Developer with 4 years of experience, specializing in React and an advanced proficiency in English (C1). Currently, I work as a Front-end Developer at ReadyMind, a Microsoft partner IT consultancy. 
 
-At ReadyMind, I’ve developed solutions that boost productivity and user engagement for clients such as Las Condes Municipality (Chile), Fornieles, Hospital Británico, CGC (Argentina), and Cenit (Colombia), utilizing Scrum methodology and technologies like React and TypeScript.
+At ReadyMind, I’ve developed solutions that boost productivity and user engagement for clients such as Las Condes Municipality (Chile), Fornieles, Britain Hospital, CGC (Argentina), and Cenit (Colombia), utilizing Scrum methodology and technologies like React and TypeScript.
 
-My journey into programming began in 2020 while building websites for artistic projects using Wix. The need for customization led me to dive deeper into coding through YouTube tutorials. This passion drove me to complete a full-stack bootcamp at Henry, where I also served as a Teaching Assistant.
+My journey into programming began in 2020 while I was building websites for artistic projects using Wix. The need for customization led me to dive deeper into coding through YouTube tutorials. This passion drove me to complete a full-stack bootcamp at Henry, where I also served as a Teaching Assistant.
 
 Before transitioning to tech, I earned a degree in Choral Conducting, directed Bicentennial Choirs, and founded two artistic groups. These experiences sharpened my leadership, teamwork, and attention to detail, skills I now apply to front-end development.
 
@@ -17,7 +17,7 @@ Before transitioning to tech, I earned a degree in Choral Conducting, directed B
 ### Visit my portfolio 
 [gastondvoskin.com](https://www.gastondvoskin.com)
 
-### Visit my last project 
+### Visit my latest project 
 [cuerdosvocales.com](https://www.cuerdosvocales.com)
 <br /> 
 
@@ -27,6 +27,7 @@ Before transitioning to tech, I earned a degree in Choral Conducting, directed B
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 - Front-end:
   
