@@ -5,11 +5,13 @@
 
 ## :man_technologist: ABOUT ME
 
-Hi! I’m a Front-end Developer with 4 years of experience, specializing in React and an advanced proficiency in English (C1). Currently, I work as a Front-end Developer at ReadyMind, a Microsoft partner IT consultancy. 
+Hi! I’m a Front-end Developer with four years of experience, specializing in React and an advanced proficiency in English (C1). Currently, I work as a Front-end Developer at ReadyMind, a Microsoft partner IT consultancy. 
 
-At ReadyMind, I’ve developed solutions that boost productivity and user engagement for clients such as Las Condes Municipality (Chile), Fornieles, Britain Hospital, CGC (Argentina), and Cenit (Colombia), utilizing Scrum methodology and technologies like React and TypeScript.
+At ReadyMind, I’ve developed solutions that boost productivity and user engagement for clients such as Las Condes Municipality (Chile), Fornieles, British Hospital, CGC, Loma Negra (Argentina), and Cenit (Colombia), utilizing Scrum methodology and technologies like React and TypeScript.
 
 My journey into programming began in 2020 while I was building websites for artistic projects using Wix. The need for customization led me to dive deeper into coding through YouTube tutorials. This passion drove me to complete a full-stack bootcamp at Henry, where I also served as a Teaching Assistant.
+
+In addition to my core development work, I’m passionate about AI. I integrate it into my daily work to boost efficiency, automate repetitive tasks, and explore new perspectives while continuously learning.
 
 Before transitioning to tech, I earned a degree in Choral Conducting, directed Bicentennial Choirs, and founded two artistic groups. These experiences sharpened my leadership, teamwork, and attention to detail, skills I now apply to front-end development.
 
